@@ -4,14 +4,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="horizontal"
-    android:padding="16dp">
+    android:padding="18dp">
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:src="@mipmap/ic_launcher"
         android:id="@+id/image"
-        android:paddingRight="18dp"
+        android:paddingRight="16dp"
         android:contentDescription="image" />
 
     <LinearLayout
